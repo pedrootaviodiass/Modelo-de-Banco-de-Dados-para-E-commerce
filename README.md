@@ -8,8 +8,8 @@ O modelo de banco de dados foi atualizado para incluir os seguintes elementos:
 
 ### 1️⃣ **Cliente (Pessoa Física e Pessoa Jurídica)**
 - A entidade **Cliente** agora está separada em:
-  - **Pessoa Física (PF)**: Nome, CPF, Data de Nascimento.
-  - **Pessoa Jurídica (PJ)**: Razão Social, CNPJ, Nome do Representante.
+  - **Pessoa Física (PF)**: Nome, CPF, endereço.
+  - **Pessoa Jurídica (PJ)**: Nome, CNPJ, endereço.
 
 ### 2️⃣ **Pagamento**
 - Os clientes podem ter múltiplas formas de pagamento cadastradas.
