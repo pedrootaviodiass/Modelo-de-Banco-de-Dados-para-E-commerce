@@ -27,5 +27,8 @@ O modelo de banco de dados foi atualizado para incluir os seguintes elementos:
 ## 🚀 Melhorias Futuras
 - Implementar triggers e stored procedures para regras de negócio.
 - Adicionar histórico de status para acompanhar mudanças nos pedidos.
+## 💥 Certificado 
+![Certificado](ecommerce/certificado.pdf)
 ##
- Feito por **[Pedro Otávio](https://github.com/pedrootaviodiass)**
+Feito por **[Pedro Otávio](https://github.com/pedrootaviodiass)**
+
