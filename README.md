@@ -21,7 +21,9 @@ O modelo de banco de dados foi atualizado para incluir os seguintes elementos:
 
 ## 📌 Ferramentas de Modelagem
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
- 
+
+## 📍 Diagrama EER (Enhanced Entity-Relationship Diagram ou Diagrama de Entidade-Relação Melhorado)
+ ![Diagrama EER](ecommerce/ecommerce.png)
 ## 🚀 Melhorias Futuras
 - Implementar triggers e stored procedures para regras de negócio.
 - Adicionar histórico de status para acompanhar mudanças nos pedidos.
